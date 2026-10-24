@@ -1,6 +1,6 @@
 # learning
 
-Language-agnostic teaching and incremental guide guidance.
+Language-agnostic teaching and incremental Markdown guide guidance.
 
 Published as plugin `learning` from this repository's `learning-agents` marketplace.
 
@@ -8,7 +8,7 @@ Published as plugin `learning` from this repository's `learning-agents` marketpl
 
 - Policies: `learning:teaching`.
 - Conventions: `learning:guide`.
-- Utilities: `learning:guide-build`.
+- Utilities: `learning:create-guide`.
 
 ## Authoring and verification
 
