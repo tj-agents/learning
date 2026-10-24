@@ -5,13 +5,28 @@
   ],
   "profiles": {
     "core": [
+      "create-guide",
       "guide",
-      "guide-build",
       "teaching"
     ]
   },
   "compatibilitySkillAliases": {},
   "skills": [
+    {
+      "name": "create-guide",
+      "kind": "utility",
+      "profile": "core",
+      "applicability": [
+        "projects explicitly selecting learning"
+      ],
+      "requires": [
+        "learning guide",
+        "selected subject contributors"
+      ],
+      "provenance": [
+        "house"
+      ]
+    },
     {
       "name": "guide",
       "kind": "convention",
@@ -20,22 +35,8 @@
         "projects explicitly selecting learning"
       ],
       "requires": [
-        "learning guide-build",
+        "learning create-guide",
         "selected subject contributors"
-      ],
-      "provenance": [
-        "house"
-      ]
-    },
-    {
-      "name": "guide-build",
-      "kind": "utility",
-      "profile": "core",
-      "applicability": [
-        "projects explicitly selecting learning"
-      ],
-      "requires": [
-        "python>=3.9"
       ],
       "provenance": [
         "house"
