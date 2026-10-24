@@ -1,0 +1,21 @@
+{
+  "name": "learning",
+  "description": "Language-agnostic teaching and incremental guide guidance.",
+  "author": {
+    "name": "ThomasSeery"
+  },
+  "repository": "https://github.com/tj-agents/learning",
+  "skills": "./skills/",
+  "keywords": [
+    "learning"
+  ],
+  "interface": {
+    "displayName": "Learning",
+    "shortDescription": "Language-agnostic teaching and incremental guide guidance.",
+    "longDescription": "Language-agnostic teaching and incremental guide guidance. Follow the Template main branch and run template:update to refresh vendored files.",
+    "developerName": "ThomasSeery",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Apply the learning project policies."
+  }
+}

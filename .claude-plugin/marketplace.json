@@ -1,0 +1,21 @@
+{
+  "name": "learning-agents",
+  "description": "Language-agnostic teaching and incremental guide guidance.",
+  "owner": {
+    "name": "ThomasSeery"
+  },
+  "plugins": [
+    {
+      "name": "learning",
+      "source": "./plugins/learning",
+      "description": "Language-agnostic teaching and incremental guide guidance.",
+      "category": "Productivity",
+      "keywords": [
+        "learning"
+      ]
+    }
+  ],
+  "allowCrossMarketplaceDependenciesOn": [
+    "tj-agents"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "learning-agents/learning",
+  "source_roots": [
+    ".agents/learning"
+  ],
+  "requires": {
+    "marketplaces": [
+      {
+        "id": "learning-agents",
+        "repository": "tj-agents/learning"
+      },
+      {
+        "id": "tj-agents",
+        "repository": "tj-agents/marketplace"
+      }
+    ],
+    "plugins": [
+      "learning-agents/learning",
+      "tj-agents/base"
+    ],
+    "hooks": [],
+    "permissions": {
+      "claude_allow": [],
+      "codex_prefix_rules": []
+    }
+  }
+}

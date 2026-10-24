@@ -1,0 +1,16 @@
+{
+  "name": "learning",
+  "displayName": "Learning",
+  "description": "Language-agnostic teaching and incremental guide guidance.",
+  "author": {
+    "name": "ThomasSeery"
+  },
+  "repository": "https://github.com/tj-agents/learning",
+  "skills": "./skills/",
+  "keywords": [
+    "learning"
+  ],
+  "dependencies": [
+    "base@tj-agents"
+  ]
+}
