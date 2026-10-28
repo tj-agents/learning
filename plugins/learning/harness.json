@@ -1,22 +1,18 @@
 {
   "schema_version": 1,
-  "plugin": "learning-agents/learning",
+  "plugin": "tj-agents/learning",
   "source_roots": [
     ".agents/learning"
   ],
   "requires": {
     "marketplaces": [
       {
-        "id": "learning-agents",
-        "repository": "tj-agents/learning"
-      },
-      {
         "id": "tj-agents",
         "repository": "tj-agents/marketplace"
       }
     ],
     "plugins": [
-      "learning-agents/learning",
+      "tj-agents/learning",
       "tj-agents/base"
     ],
     "hooks": [],
