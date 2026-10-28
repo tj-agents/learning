@@ -2,7 +2,7 @@
 
 Language-agnostic teaching and incremental guide guidance.
 
-Published as plugin `learning` from this repository's `learning-agents` marketplace.
+Published as plugin `tj-agents/learning` from the `tj-agents` marketplace.
 
 ## Skills
 
