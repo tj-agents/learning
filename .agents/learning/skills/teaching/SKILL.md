@@ -1,7 +1,7 @@
 ---
 name: teaching
 description: Own the teaching method, learner checkpoints and delivery-mode boundary for projects that explicitly select Learning. Use when teaching an unfamiliar concept, choosing between guided delivery and study, or recording learner evidence without changing subject knowledge.
-kind: policy
+kind: learning
 domain: learning
 profile: core
 applicability: projects explicitly selecting learning
@@ -27,7 +27,8 @@ use only what the selected project supplies. Do not branch on language names or
 maintain a Learning registry of languages, concepts or examples.
 
 ```text
-Selected contributors: cpp:knowledge, win32:knowledge, msvc:toolchain
+Selected contributors: cpp:direction, win32:overview, msvc:toolchain
+Learner records: follow the selected orientation skills to their plain learning data.
 Lesson: trace one request from client call to driver boundary.
 Teaching order: explain the unfamiliar Windows boundary first, then use the
 existing C++ request code as the short concrete example.
