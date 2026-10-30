@@ -12,8 +12,7 @@
       }
     ],
     "plugins": [
-      "tj-agents/learning",
-      "tj-agents/base"
+      "tj-agents/learning"
     ],
     "hooks": [],
     "permissions": {

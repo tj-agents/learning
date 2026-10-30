@@ -1,9 +1,9 @@
 # learning capabilities
 
-Generated from `.agents/<plugin>/<kind>/<family>/<member>/SKILL.md`; a skill's name is its folder path below the kind folder joined by hyphens.
+Generated from `.agents/<plugin>/skills/<family>/<member>/SKILL.md`; a skill's name is its folder path below skills/ joined by hyphens.
 
 ## learning
 
-- `guide` — convention — core — `.agents/learning/convention/guide/SKILL.md`
-- `teaching` — policy — core — `.agents/learning/policy/teaching/SKILL.md`
-- `guide-build` — utility — core — `.agents/learning/utility/guide-build/SKILL.md`
+- `teaching` — learning — core — `.agents/learning/skills/teaching/SKILL.md`
+- `guide-build` — operation — core — `.agents/learning/skills/guide-build/SKILL.md`
+- `guide` — standard — core — `.agents/learning/skills/guide/SKILL.md`

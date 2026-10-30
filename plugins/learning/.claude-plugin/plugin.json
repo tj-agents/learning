@@ -9,8 +9,5 @@
   "skills": "./skills/",
   "keywords": [
     "learning"
-  ],
-  "dependencies": [
-    "base@tj-agents"
   ]
 }

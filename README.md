@@ -6,9 +6,9 @@ Published as plugin `tj-agents/learning` from the `tj-agents` marketplace.
 
 ## Skills
 
-- Policies: `learning:teaching`.
-- Conventions: `learning:guide`.
-- Utilities: `learning:guide-build`.
+- Learning: `learning:teaching`.
+- Standards: `learning:guide`.
+- Operations: `learning:guide-build`.
 
 ## Authoring and verification
 

@@ -1,7 +1,7 @@
 ---
 name: guide-build
 description: Scaffold, validate and render a selected Learning project's local guide from short Markdown lessons and anchored source excerpts. Use when creating a guide, building it locally, or checking its excerpts and links.
-kind: utility
+kind: operation
 domain: learning
 profile: core
 applicability: projects explicitly selecting learning

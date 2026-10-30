@@ -1,8 +1,6 @@
 {
   "plugin": "learning",
-  "dependencies": [
-    "tj-agents/base"
-  ],
+  "dependencies": [],
   "profiles": {
     "core": [
       "guide",
@@ -14,7 +12,7 @@
   "skills": [
     {
       "name": "guide",
-      "kind": "convention",
+      "kind": "standard",
       "profile": "core",
       "applicability": [
         "projects explicitly selecting learning"
@@ -29,7 +27,7 @@
     },
     {
       "name": "guide-build",
-      "kind": "utility",
+      "kind": "operation",
       "profile": "core",
       "applicability": [
         "projects explicitly selecting learning"
@@ -43,7 +41,7 @@
     },
     {
       "name": "teaching",
-      "kind": "policy",
+      "kind": "learning",
       "profile": "core",
       "applicability": [
         "projects explicitly selecting learning"
