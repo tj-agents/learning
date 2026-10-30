@@ -1,5 +1,5 @@
 # learning package capabilities
 
-- `guide` — convention — core
-- `teaching` — policy — core
-- `guide-build` — utility — core
+- `teaching` — learning — core
+- `guide-build` — operation — core
+- `guide` — standard — core

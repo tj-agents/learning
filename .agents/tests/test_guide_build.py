@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SCRIPT = ROOT / ".agents/learning/utility/guide-build/scripts/guide_build.py"
+SCRIPT = ROOT / ".agents/learning/skills/guide-build/scripts/guide_build.py"
 
 
 class GuideBuildTests(unittest.TestCase):

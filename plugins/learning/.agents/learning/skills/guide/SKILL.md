@@ -1,7 +1,7 @@
 ---
 name: guide
 description: Own the content rules for an incremental project learning guide. Use when writing, updating or reviewing lessons and code excerpts in a selected Learning project.
-kind: convention
+kind: standard
 domain: learning
 profile: core
 applicability: projects explicitly selecting learning
