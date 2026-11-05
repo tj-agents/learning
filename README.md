@@ -1,6 +1,6 @@
 # learning
 
-Language-agnostic teaching and incremental guide guidance.
+Language-agnostic teaching and incremental Markdown guide guidance.
 
 Published as plugin `tj-agents/learning` from the `tj-agents` marketplace.
 
@@ -8,7 +8,7 @@ Published as plugin `tj-agents/learning` from the `tj-agents` marketplace.
 
 - Policies: `learning:teaching`.
 - Conventions: `learning:guide`.
-- Utilities: `learning:guide-build`.
+- Utilities: `learning:create-guide`.
 
 ## Authoring and verification
 

@@ -1,11 +1,11 @@
 ---
 name: guide
-description: Own the content rules for an incremental project learning guide. Use when writing, updating or reviewing lessons and code excerpts in a selected Learning project.
+description: Own the content rules for an incremental Markdown learning guide, including when a Mermaid diagram clarifies a request path. Use when writing, updating or reviewing lessons in a selected Learning project.
 kind: convention
 domain: learning
 profile: core
 applicability: projects explicitly selecting learning
-requires: learning guide-build, selected subject contributors
+requires: learning create-guide, selected subject contributors
 provenance: house
 ---
 
