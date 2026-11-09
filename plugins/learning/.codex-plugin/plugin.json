@@ -17,5 +17,6 @@
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "Apply the learning project policies."
-  }
+  },
+  "version": "97589f1a8205"
 }
