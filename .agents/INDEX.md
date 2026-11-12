@@ -6,4 +6,4 @@ Generated from `.agents/<plugin>/<kind>/<family>/<member>/SKILL.md`; a skill's n
 
 - `guide` — convention — core — `.agents/learning/convention/guide/SKILL.md`
 - `teaching` — policy — core — `.agents/learning/policy/teaching/SKILL.md`
-- `guide-build` — utility — core — `.agents/learning/utility/guide-build/SKILL.md`
+- `create-guide` — utility — core — `.agents/learning/utility/create-guide/SKILL.md`
